@@ -1,0 +1,4 @@
+.idea
+*.o
+go
+.vscode
